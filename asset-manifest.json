@@ -1,29 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.00b411ee.css",
-    "main.js": "./static/js/main.0d78a829.js",
+    "main.css": "./static/css/main.329283c9.css",
+    "main.js": "./static/js/main.da0cb77e.js",
     "static/media/texture-1.png": "./static/media/texture-1.3c515bc048f85c25d61f.png",
     "static/media/gradImage.png": "./static/media/gradImage.e864b10b9557c48027ee.png",
     "static/media/texture-3.png": "./static/media/texture-3.d16dcc9c63e250742249.png",
     "static/media/smiling.png": "./static/media/smiling.c5a233019a5bb420ec55.png",
-    "static/media/mainPerson.png": "./static/media/mainPerson.780b00c556e82d3b7116.png",
+    "static/media/mainPerson.png": "./static/media/mainPerson.a50195416a5d93101221.png",
     "static/media/getInTouch2.png": "./static/media/getInTouch2.be74e077a905ee7bfba4.png",
     "static/media/Rockness.otf": "./static/media/Rockness.f5624576edca5ea15505.otf",
     "static/media/wt-3.png": "./static/media/wt-3.da35698fedc7d8ad1a4a.png",
     "static/media/wt-1.png": "./static/media/wt-1.140cd935d9476c53924a.png",
     "static/media/wt-2.png": "./static/media/wt-2.c780f5de706cdd032e7f.png",
     "static/media/slide.png": "./static/media/slide.7383996e87f09e82f9e9.png",
-    "static/media/featuredIn.svg": "./static/media/featuredIn.55ab56adbf6faf7fa2e15a6c5fb05061.svg",
+    "static/media/gradImageMobile.png": "./static/media/gradImageMobile.1a867fadc8718e593c65.png",
+    "static/media/brands.png": "./static/media/brands.f5bc7bd12ad2643a07bf.png",
     "static/media/texture-2.png": "./static/media/texture-2.7dce52f60c608907b34c.png",
+    "static/media/brandsDesk.png": "./static/media/brandsDesk.fd248d3b28a3eca7dca5.png",
     "static/media/getInTouch1.png": "./static/media/getInTouch1.96f3f482c13dc66513eb.png",
     "static/media/ellipseImg.png": "./static/media/ellipseImg.92ed921ae1ebf3ece58c.png",
     "static/media/testimonial2.png": "./static/media/testimonial2.05b035b84cbc43688c3a.png",
     "static/media/testimonial1.png": "./static/media/testimonial1.7e01f2e424ca4d2b1148.png",
     "static/media/testimonial3.png": "./static/media/testimonial3.b929c4b4a24c17470b99.png",
-    "static/media/yahoo.svg": "./static/media/yahoo.ca26f20c62d2a94fb3d94fe4d2e05bee.svg",
-    "static/media/thrive.svg": "./static/media/thrive.5d457f62697f276efeef778a7e78a078.svg",
-    "static/media/entrep.svg": "./static/media/entrep.014e6ef32b36425cdddd83fbabd26cc8.svg",
-    "static/media/forbes.svg": "./static/media/forbes.7371c599c512cad6a81b7eb28425c8b7.svg",
     "static/media/Instagram.svg": "./static/media/Instagram.fd83c2e6e94df8648a1c19343d3871b9.svg",
     "static/media/Facebook.svg": "./static/media/Facebook.c9afa3059aebdbfe67a9898a16b81bcc.svg",
     "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
@@ -31,7 +29,9 @@
     "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/LinkedIn.svg": "./static/media/LinkedIn.1093f8ee5fdda01965bf4171a68d695c.svg",
     "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "static/media/ellipse-mobile.svg": "./static/media/ellipse-mobile.c13bb467df913e5783c0c78e42ec00b6.svg",
     "static/media/ellipse.svg": "./static/media/ellipse.7cb3fc721213ecfc6e414ab9efda147a.svg",
+    "static/media/ellipseStoriesMobile.svg": "./static/media/ellipseStoriesMobile.ea4139217fa622102db347fd70cd48f7.svg",
     "static/media/ellipseList.svg": "./static/media/ellipseList.45535f027dbb68ffce8eee7012840c96.svg",
     "static/media/ellipseStories.svg": "./static/media/ellipseStories.cdf315d6a83bf3713aef67c7d02d35b8.svg",
     "static/media/hire.svg": "./static/media/hire.ad2a09dad5d4132f139531e91def83d9.svg",
@@ -39,11 +39,11 @@
     "static/media/left.svg": "./static/media/left.bf9ab5de9bcc49ca4f6342f1be62c8eb.svg",
     "static/media/right.svg": "./static/media/right.59e0182e1404f2f01bd8e937c2faf13b.svg",
     "static/media/commas.svg": "./static/media/commas.5db5a0e24b3568ce06295712b61ec32b.svg",
-    "main.00b411ee.css.map": "./static/css/main.00b411ee.css.map",
-    "main.0d78a829.js.map": "./static/js/main.0d78a829.js.map"
+    "main.329283c9.css.map": "./static/css/main.329283c9.css.map",
+    "main.da0cb77e.js.map": "./static/js/main.da0cb77e.js.map"
   },
   "entrypoints": [
-    "static/css/main.00b411ee.css",
-    "static/js/main.0d78a829.js"
+    "static/css/main.329283c9.css",
+    "static/js/main.da0cb77e.js"
   ]
 }
